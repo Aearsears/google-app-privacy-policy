@@ -10,10 +10,6 @@ This repository documents and tracks privacy policies related to Google applicat
 
 Please explore the repository contents to view policy documents and related information.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests.
-
 ## License
 
 Please check the LICENSE file for licensing information.
